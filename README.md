@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I like to build AI.
+I like to build A(G)I.
 
 <!--
 **felixviews/felixviews** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
